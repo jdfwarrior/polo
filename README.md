@@ -1,5 +1,7 @@
 # Polo
 
+A fork of the [polo](https://github.com/mafintosh/polo) module originally created by [mafintosh](https://github.com/mafintosh), modified to include a patched version of the [root](https://github.com/mafintosh/root) module to enable support for newer versions of Nodejs.
+
 Polo is a zero configuration (zeroconf, mdns or dns-sd) service discovery module written completely in Javascript. Unlike some other tools (https://github.com/agnat/node_mdns) it does not require the installation of Apple's Bonjour SDK.
 It's available through npm:
 
