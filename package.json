@@ -1,5 +1,5 @@
 {
-  "name": "polo-discover",
+  "name": "@jdfwarrior/polo",
   "author": "David Ferguson <david@ferg.co>",
   "version": "0.8.1",
   "dependencies": {
