@@ -1,7 +1,7 @@
 {
   "name": "@jdfwarrior/polo",
   "author": "David Ferguson <david@ferg.co>",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "dependencies": {
     "common": "^0.2.5",
     "request": "^2.48.0",
