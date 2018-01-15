@@ -1,11 +1,11 @@
 {
-  "name": "polo-discover",
+  "name": "@jdfwarrior/polo",
   "author": "David Ferguson <david@ferg.co>",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "dependencies": {
     "common": "^0.2.5",
     "request": "^2.48.0",
-    "root-events": "^3.0.0"
+    "@jdfwarrior/root": "^3.0.0"
   },
   "repository": "git://github.com/jdfwarrior/polo",
   "description": "a zero configuration discovery service written completely in Javascript",
